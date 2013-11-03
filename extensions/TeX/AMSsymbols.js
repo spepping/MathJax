@@ -1,7 +1,7 @@
 /*
  *  /MathJax/extensions/TeX/AMSsymbols.js
  *  
- *  Copyright (c) 2009-2013 The MathJax Consortium
+ *  Copyright (c) 2012 Design Science, Inc.
  *
  *  Part of the MathJax library.
  *  See http://www.mathjax.org for details.

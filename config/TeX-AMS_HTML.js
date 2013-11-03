@@ -1,7 +1,7 @@
 /*
  *  /MathJax/config/TeX-AMS_HTML.js
  *  
- *  Copyright (c) 2010-2013 The MathJax Consortium
+ *  Copyright (c) 2010-11 Design Science, Inc.
  *
  *  Part of the MathJax library.
  *  See http://www.mathjax.org for details.
