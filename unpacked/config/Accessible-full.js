@@ -1,11 +1,7 @@
-/* -*- Mode: Javascript; indent-tabs-mode:nil; js-indent-level: 2 -*- */
-/* vim: set ts=2 et sw=2 tw=80: */
-
-/*************************************************************
- *
+/*
  *  /MathJax/unpacked/config/Accessible-full.js
  *  
- *  Copyright (c) 2010-2013 The MathJax Consortium
+ *  Copyright (c) 2010-11 Design Science, Inc.
  *
  *  Part of the MathJax library.
  *  See http://www.mathjax.org for details.
@@ -26,7 +22,7 @@ MathJax.Hub.Config({
     mpMouse: true
   },
   errorSettings: {
-    message: ["[",["MathError","Math Error"],"]"]
+    message: ["[Math Error]"]
   }
 });
 
